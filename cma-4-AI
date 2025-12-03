@@ -9,6 +9,7 @@
 0.0.0.0 ios.chat.openai.com
 0.0.0.0 setup.auth.openai.com
 0.0.0.0 tcr9i.chat.openai.com
+0.0.0.0 ab.chatgpt.com
 
 # == DeepAI ==
 0.0.0.0 deepai.org
