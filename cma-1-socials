@@ -1,8 +1,3 @@
-# == VPNs ==
-0.0.0.0 browsec.com
-0.0.0.0 postlm.com
-0.0.0.0 postls.com
-
 # == Socials ==
 0.0.0.0 facebook.net
 0.0.0.0 facebook.com
@@ -73,11 +68,6 @@
 0.0.0.0	scontent.cdninstagram.com
 0.0.0.0	telegraph-ash.instagram.com
 0.0.0.0	white.ish.instagram.com
-
-# == Steam ==
-0.0.0.0 api.steampowered.com
-0.0.0.0 steamcommunity.com
-0.0.0.0 test.steampowered.com
 
 # == Snapchat ==
 0.0.0.0 snapchat.com
