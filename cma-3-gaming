@@ -32,3 +32,15 @@
 0.0.0.0 ttvnw.net
 0.0.0.0 jtvnw.net
 0.0.0.0 twitchcdn.net
+
+# == Clash Royale ==
+0.0.0.0 clashroyale.com
+0.0.0.0 clashroyaleapp.com
+0.0.0.0 game.clashroyaleapp.com
+0.0.0.0 game-assets.clashroyaleapp.com
+0.0.0.0 clashroyale.inbox.supercell.com
+
+# == MISC ==
+0.0.0.0 slither.io
+0.0.0.0 exitgames.com
+0.0.0.0 
