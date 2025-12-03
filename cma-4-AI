@@ -17,3 +17,9 @@
 # == Quillbot ==
 0.0.0.0 quillbot.com
 0.0.0.0 try.quillbot.com
+0.0.0.0 libs.quillbot.com
+0.0.0.0 sentry-webapp.quillbot.com
+0.0.0.0 stream.quillbot.com
+0.0.0.0 collector.quillbot.com
+0.0.0.0 ol-collector.quillbot.com
+0.0.0.0 assets.quillbot.com
