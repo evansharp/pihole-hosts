@@ -3,3 +3,32 @@
 0.0.0.0 steamcommunity.com
 0.0.0.0 test.steampowered.com
 
+# == Roblox ==
+0.0.0.0 golden.roblox.com
+0.0.0.0 us-central-bd2.roblox.com
+0.0.0.0 realtime.roblox.com
+0.0.0.0 gold.roblox.com
+0.0.0.0 inventory.roblox.com
+0.0.0.0 economy.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 assetgame.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 clientsettingscdn.roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 thumbnails.roblox.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 groups.roblox.com
+0.0.0.0 gameinternationalization.roblox.com
+0.0.0.0 gamejoin.roblox.com
+0.0.0.0 badges.roblox.com
+0.0.0.0 followings.roblox.com
+0.0.0.0 voice.roblox.co
+0.0.0.0 contacts.roblox.com
+
+# == Twitch ==
+0.0.0.0 twitch.tv
+0.0.0.0 ttvnw.net
+0.0.0.0 jtvnw.net
+0.0.0.0 twitchcdn.net
