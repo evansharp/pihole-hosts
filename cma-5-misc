@@ -1,6 +1,7 @@
 # == Tracking and Sketchy Stuff ==
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 unattr.com
+0.0.0.0 sentry.io
 
 # == Shopping ==
 0.0.0.0 aelfriceden.com
